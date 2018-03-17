@@ -10,3 +10,5 @@ Accepted pull request (0-1) |
 Marked on:
 
 Comment:
+
+Should specify what the different categories mean...
