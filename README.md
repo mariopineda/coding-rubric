@@ -1,15 +1,12 @@
 # Handing in completed assignments 
-_Important: If your assignment is not submitted *exactly* according to the instructions it will not be marked._
+_Important: Assignments that are not submitted *exactly* according to the instructions will not be marked._
 
-Hand in completed assignment for marking by 
+Hand in completed assignment for marking by doing the following...
 1. Click the Issue tab in the assignment repository. If the issues tab is missing you need to go to the Settings tab and enable Issues first.
 2. Click the green New issue
 3. Create a new issue by entering the following in the title field (Placing "Tony" with your own first name): 
 ![](issues.gif)
-
-
-
-![](images/submitting-assignment.gif)
+4. Click the green Submitt new issue button.
 
 # Marking Rubric
 Category                    | Score        
