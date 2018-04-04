@@ -3,7 +3,7 @@ Hand in completed assignment for marking by
 1. Click the Issue tab in the assignment repository. If the issues tab is missing you need to go to the Settings tab and enable Issues first.
 2. Click the green New issue
 3. Create a new issue by entering the following in the title field: 
-!()[images/issues.jpeg]
+!()[issues.gif]
 
 ```Please 
 
