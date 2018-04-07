@@ -23,3 +23,24 @@ Accepted pull request (0-1) |
 Marked on:
 
 Comment:
+
+## Submitting a pull request
+To obtain the final 10% on your assignment you need to submitt a pull request and it **has to be accepted** by your teacher. In order for a pull request to be accepted 
+* you have to have full marks in the previous categories
+* it has to be a high quality contribution that will improve the original assignment
+
+To submitt a pull request follow these steps:
+1. Go to the forked repos of the assignment for which you wish to submitt a pull request for.
+2. In GitHub create a branch of the master called ```pull-me```.
+3. In the ```pull-me``` branch remove your code and any solutions to the assigment. You are aiming to create a new (and better) template for the assignment so all solutions have to be removed before it can be considered for a pull request.
+4. Click on the Pull request tab.
+5. Click on the green New pull request button
+6. Choose the master branch of the assignment in the original template repository for @mariopineda against the pull-me branch in your assignment repository. See image for an example. 
+![](images/pullrequest.png)
+7. Click green Create pull request button
+8. Fill out the pull request form by,
+  * putting ```Pull request (Your First Name``` in the title field, 
+  * tag @mariopineda on the first line in the text box,
+  * provide a one sentence explanation for why your version of the assignment is an improvement over the original (do not provide the details of your improvements here, just explain why your version is an improvement), and
+  * a bulleted list detailing the exact changes you did (not why you did them, but what you did).
+![](images/pullrequest2.png)  
