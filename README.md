@@ -1,4 +1,5 @@
-# Submitting marking a request
+# marking-sop
+## Submitting marking a request
 _Important: Assignments not submitted **exactly** according to the instructions will not be marked._
 
 Submitt marking requests by following these instructions:
@@ -10,7 +11,7 @@ Submitt marking requests by following these instructions:
 5. Double check that the entered information is correct (_Assignments not submitted **exactly** according to the instructions will not be marked._)
 6. Click the green Submitt new issue button.
 
-# Marking Rubric
+## Marking Rubric
 Category                    | Score        
 ----------------------------| -------------
 SCM (0-3)                   |  
