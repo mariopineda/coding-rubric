@@ -12,15 +12,14 @@ Submitt marking requests by following these instructions:
 6. Click the green Submitt new issue button.
 
 ## Marking Rubric
-Category                    | Score        
-----------------------------| -------------
-SCM (0-3)                   |  
-Specifications (0-3)        | 
-Code hygiene (0-3)          | 
-Accepted pull request (0-1) |
-**Total**                   |  /10
+Category                    | Score        | Comment
+----------------------------| -------------| --------
+SCM (0-3)                   |              |
+Specifications (0-3)        |              |
+Code hygiene (0-3)          |              |
+Accepted pull request (0-1) |              |
+**Total**                   |  /10         
 
-Comment:
 
 ## Submitting a pull request
 To obtain the final 10% on your assignment you need to submitt a pull request and it **has to be accepted** by your teacher. In order for a pull request to be accepted 
