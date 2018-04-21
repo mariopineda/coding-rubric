@@ -1,4 +1,4 @@
-# marking-sop
+# Assignment SOPs (Standard Operating Procedures)
 ## Submitting marking a request
 _Important: Assignments not submitted **exactly** according to the instructions will not be marked._
 
