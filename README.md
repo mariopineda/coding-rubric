@@ -42,12 +42,12 @@ To submitt a pull request follow these steps:
   * a bulleted list detailing the exact changes you did (not why you did them, but what you did).
 ![](images/pullrequest2.png)  
 
-## Keeping up to date with the master repository (if your teacher makes changes to the assignment)
-To keep your local assignment repository up to date with your teacher's repository you need follow the following procedure from the terminal (shell in Linux and Git Shell in the Windows GitHub client).
+## Keeping up to date with the master repository 
+If yuor teacher makes changes to the instructions for an assignment you may want to update your forked repos against the teacher master repos using the following instructions.
 
-**Step 1:** The first time you are updating your repository you need to run the following command:
+**Step 1:** The first time you are updating your repository you need to run the following command (replace _<name of assignment>_ with the name of the assignment):
 ```
-git remote add upstream https://github.com/mariopineda/web-page-assignment
+git remote add upstream https://github.com/mariopineda/<name of assignment>
 ```
 **Step 2:** If you are using the same computer you do not have to do Step 1 in subsequent updates and you can skip right to Step 2. In this step you need to run the following two commands:
 ```
