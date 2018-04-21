@@ -41,3 +41,19 @@ To submitt a pull request follow these steps:
   * provide a one sentence explanation for why your version of the assignment is an improvement over the original (do not provide the details of your improvements here, just explain why your version is an improvement), and
   * a bulleted list detailing the exact changes you did (not why you did them, but what you did).
 ![](images/pullrequest2.png)  
+
+## Keeping up to date with the master repository (if your teacher makes changes to the assignment)
+To keep your local assignment repository up to date with your teacher's repository you need follow the following procedure from the terminal (shell in Linux and Git Shell in the Windows GitHub client).
+
+**Step 1:** The first time you are updating your repository you need to run the following command:
+```
+git remote add upstream https://github.com/mariopineda/web-page-assignment
+```
+**Step 2:** If you are using the same computer you do not have to do Step 1 in subsequent updates and you can skip right to Step 2. In this step you need to run the following two commands:
+```
+git fetch upstream
+git merge upstream/master
+```
+**Step 3:** Resolve possible merge conflicts and commit.
+
+**Step 5:** You local repository has now been updated using your teacher's master respository. Finally you need to push your local repository to GitHub to make sure that your GitHub repository is updated as well.
