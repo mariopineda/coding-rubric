@@ -1,1 +1,4 @@
-remote_theme: mmistakes/so-simple-theme
+theme: jekyll-theme-leap-day
+title: Assignment SOPS
+description: Description of assignment Standard Operating Procedures.
+show_downloads: false
