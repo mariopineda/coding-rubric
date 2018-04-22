@@ -1,5 +1,4 @@
-# Assignment SOPs (Standard Operating Procedures)
-## Submitting marking a request
+# Submitting marking a request
 _Important: Assignments not submitted **exactly** according to the instructions will not be marked._
 
 Submitt marking requests by following these instructions:
@@ -11,7 +10,7 @@ Submitt marking requests by following these instructions:
 5. Double check that the entered information is correct (_Assignments not submitted **exactly** according to the instructions will not be marked._)
 6. Click the green Submitt new issue button.
 
-## Marking Rubric
+# Marking Rubric
 Category                    | Score        | Comment
 ----------------------------| -------------| --------
 SCM (0-3)                   |              |
@@ -21,7 +20,7 @@ Accepted pull request (0-1) |              |
 **Total**                   |  /10         
 
 
-## Submitting a pull request
+# Submitting a pull request
 To obtain the final 10% on your assignment you need to submitt a pull request and it **has to be accepted** by your teacher. In order for a pull request to be accepted 
 * you have to have full marks in the previous categories
 * it has to be a high quality contribution that will improve the original assignment
@@ -42,7 +41,7 @@ To submitt a pull request follow these steps:
   * a bulleted list detailing the exact changes you did (not why you did them, but what you did).
 ![](images/pullrequest2.png)  
 
-## Keeping up to date with the master repository 
+# Keeping up to date with the master repository 
 If yuor teacher makes changes to the instructions for an assignment you may want to update your forked repos against the teacher master repos using the following instructions.
 
 **Step 1:** The first time you are updating your repository you need to run the following command (replace _<name of assignment>_ with the name of the assignment):
