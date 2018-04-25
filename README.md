@@ -16,15 +16,21 @@ Category                    | Score        | Comment
 SCM (0-3)                   |              |
 Specifications (0-3)        |              |
 Code hygiene (0-3)          |              |
-Accepted pull request (0-1) |              |
+Accepted pull request/Bonus (0-1) |              |
 **Total**                   |  /10         
 
+## Marking Category Descriptions
+SCM - Use of Source Control Management (git an GitHub) with an empasis on small commits of functional code chunks, descriptive and short commit messages without any unnecessary wording.
+Specifications - Is the assignment completed according to all the specifications. Functionality of code and output deliverables.
+Code hygiene - Well-organized code using proper and consistent indentation, variable naming conventions, syntax and comments.
 
-# Submitting a pull request
-To obtain the final 10% on your assignment you need to submitt a pull request and it **has to be accepted** by your teacher. In order for a pull request to be accepted 
+To obtain the final 10% on your assignment you need to either submitt a pull request and it **has to be accepted** by your teacher. In order for a pull request to be accepted 
 * you have to have full marks in the previous categories
 * it has to be a high quality contribution that will improve the original assignment
 
+Alternatively you can also obtain the final 10% on your assignment by completing a Bonus Challenge (only applicable on specific asignments).
+
+# Submitting a pull request
 To submitt a pull request follow these steps:
 1. Go to the forked repos of the assignment for which you wish to submitt a pull request for.
 2. In GitHub create a branch of the master called ```pull-me```.
