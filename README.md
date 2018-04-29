@@ -24,11 +24,12 @@ SCM - Use of Source Control Management (git an GitHub) with an empasis on small 
 Specifications - Is the assignment completed according to all the specifications. Functionality of code and output deliverables.
 Code hygiene - Well-organized code using proper and consistent indentation, variable naming conventions, syntax and comments.
 
-To obtain the final 10% on your assignment you need to either submitt a pull request and it **has to be accepted** by your teacher. In order for a pull request to be accepted 
-* you have to have full marks in the previous categories
-* it has to be a high quality contribution that will improve the original assignment
+## Final 10%
+To obtain the final 10% on your assignment you need to either:
+* submitt a pull request and it **has to be accepted** by your teacher. Acceptance of pull requests is at the discretion of your teacher.
+* complete the Bonus Callenge (only applicable on specific assignments.
 
-Alternatively you can also obtain the final 10% on your assignment by completing a Bonus Challenge (only applicable on specific asignments).
+Note: you have to have 90% on the previous categories to elegible to recieve the final 10%.
 
 # Submitting a pull request
 To submitt a pull request follow these steps:
